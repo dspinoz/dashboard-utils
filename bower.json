@@ -29,7 +29,7 @@
     "bootstrap-latest": "bootstrap#latest",
     "angular-latest": "angular#latest",
     "dc.js": "~1.7.3",
-    "dc.js-2": "~2",
+    "dc.js-2": "dc.js#2",
     "crossfilter": "~1.3.11",
     "c3": "~0.4.10",
     "nvd3": "~1.8.1",
@@ -101,7 +101,8 @@
     "d3-sketchy": "https://codeload.github.com/emeeks/d3-sketchy/zip/master",
     "bihisankey": "https://codeload.github.com/Neilos/bihisankey/zip/master",
     "vega-lite": "~1.0.8",
-    "codemirror": "~5.19.0"
+    "codemirror": "~5.19.0",
+    "datatables": "^1.10.12"
   },
   "resolutions": {
     "d3": "3.x",
